@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(166, 240, 218);
+
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+}
+.hello {
+    display: flex;
+    justify-content: center;
+    max-width: 1000px;
+    margin: 0 auto;
+    align-items: center;
+}
+.buttons {
+    display: flex;
+    justify-content: center;
+    max-width: 1000px;
+    margin: 0 auto;
+    align-items: center;
+}
